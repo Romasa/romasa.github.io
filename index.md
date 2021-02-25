@@ -8,7 +8,7 @@ In Spring 2021, I am teaching CSC101 section 3 & 6.
 CSC101 Section 3:
 
 # Timing: (Theory) ST 12:30 - 14:00, (Lab) S 14:00 - 15:30
-# For course lecture and content [Click here](CSC101-3.md)
+# For course lecture and content [Click here](https://romasa.github.io/CSC101-3)
 ```
 
 ```markdown
