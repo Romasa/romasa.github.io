@@ -15,5 +15,5 @@ CSC101 Section 3:
 CSC101 Section 6:
 
 # Timing: (Theory) MW 11:00 - 12:30, (Lab) W 09:30 - 11:00
-# For course lecture and content [Go there](https://romasa.github.io/CSC101-6)
+# For course lecture and content [GitHub](http://github.com)
 ```
