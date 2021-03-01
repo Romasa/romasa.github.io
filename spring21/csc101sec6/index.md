@@ -1,5 +1,7 @@
 # Welcome to CSC101 Section 6
 
+![Fall](/fall.jpg)
+
 ## Class Timing : (Theory) MW 11:00 - 12:30, (Lab) W 09:30 - 11:00
 * * *
 
