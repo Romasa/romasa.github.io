@@ -19,3 +19,4 @@ In Spring 2021, I am teaching CSC101 section 3 & 6.
 - [C++ Complete Reference 3rd Edition](https://drive.google.com/file/d/1CgzsMnSvpTh3tLPWOmpYu3-ZrXwi75gZ/view?usp=sharing)
 - [A Computer Science Tapestry, 2nd Edition](https://www2.cs.duke.edu/csed/tapestry/)
 - [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf) 
+- [Programming with C++, Schaum's Outline](https://drive.google.com/file/d/1rlXCW2R7fRPw7pLg8EXVlspk5Lzy4aZ3/view?usp=sharing)
