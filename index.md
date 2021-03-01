@@ -1,4 +1,4 @@
-# ./Welcome to my Page 
+# Welcome to my Page 
 
 ![coffee](/coffee.jpg)
 
