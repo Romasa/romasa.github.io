@@ -34,7 +34,13 @@ Recordings of the sessions [available here](https://drive.google.com/drive/folde
 Examples of the code [available here]()
 
 * * * 
+## Assignment
 
+Name      | Due Date 
+----------------------
+[Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 11th March 2021 23:59:59
+
+* * *
 
 ## Tentative Course Outline
 
