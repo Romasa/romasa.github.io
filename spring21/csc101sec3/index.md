@@ -51,8 +51,9 @@ Lecture  | Topic | Contents  | Further Reading
 1. | printf() and cout() | [Lecture Slides](https://docs.google.com/presentation/d/1POaPIfWOyYCynZggYynVUnbCoiNCSo6eCY9bxDtKsME/edit?usp=sharing) | Schaum's outline, pg# 2 - 5
 2. | Variables, Datatypes and Input | [Lecture Slides](https://docs.google.com/presentation/d/1q0mrhAz57rkCCBlHCrfZ3e0dW64GgP9agD_Zen4so_A/edit?usp=sharing) | [Variables](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing) [Datatypes](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing)
 4. | Datatypes and Operators  | [Lecture Slides](https://docs.google.com/presentation/d/1fob7spDAPqYFZx2FIIcfWsbUGjSfVPcHUUwB3yUKVps/edit?usp=sharing) | Schaum's outline, Chapter # 2
-5. | Decision Making | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
+5. | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
 
+* * *
 
 ## Practice Problems
 1. [Practice Set for Simple Airthmetic](https://docs.google.com/document/d/1uZrc1sv3mHkYIXJMd8HTOQdXakFdiLhvrYthV3krSfc/edit?usp=sharing)
