@@ -22,9 +22,6 @@ Time:
 
 
 ### [Tahmid Hossain](mailto:1820228@iub.edu.bd)
-Office hour: [Google Meet]()
-
-Time:
 
 * * * 
 ## Class Materials
