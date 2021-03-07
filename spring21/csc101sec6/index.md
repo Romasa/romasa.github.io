@@ -26,7 +26,7 @@ Time:
 * * * 
 ## Class Materials
 
-Recordings of the sessions [available here](https://drive.google.com/drive/folders/1KJXF4o9NnCreQNrr8g3MzASutwhrIAZQ?usp=sharing)
+Recordings of the sessions [available here](https://drive.google.com/drive/folders/1OOFmh1qo-jeF9EI5PlL2oX_Ft6Oyf62g?usp=sharing)
 
 
 Examples of the code [available here](https://github.com/Romasa/Introductory-Programming-with-C-Plus-Plus)
