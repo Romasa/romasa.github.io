@@ -50,6 +50,7 @@ Lecture  | Topic | Contents  | Further Reading
 2 | Variables, Datatypes and Input | [Lecture Slides](https://docs.google.com/presentation/d/1q0mrhAz57rkCCBlHCrfZ3e0dW64GgP9agD_Zen4so_A/edit?usp=sharing) | [Variables](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing),  [Datatypes](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing)
 3 | Datatypes and Operators  | [Lecture Slides](https://docs.google.com/presentation/d/1fob7spDAPqYFZx2FIIcfWsbUGjSfVPcHUUwB3yUKVps/edit?usp=sharing) | Schaum's outline, Chapter # 2
 4 | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
+5 | Iterative Statements | [Lecture Slides]() | Upcoming
 
 
 * * *
