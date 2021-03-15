@@ -37,7 +37,7 @@ Examples of the code [available here](https://github.com/Romasa/Introductory-Pro
 
 Name | Due Date 
 -----| ----------------
-[Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 11th March 2021 23:59:59
+[Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 13th March 2021 23:59:59
 
 * * *
 
@@ -50,7 +50,7 @@ Lecture  | Topic | Contents  | Further Reading
 2 | Variables, Datatypes and Input | [Lecture Slides](https://docs.google.com/presentation/d/1q0mrhAz57rkCCBlHCrfZ3e0dW64GgP9agD_Zen4so_A/edit?usp=sharing) | [Variables](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing),  [Datatypes](https://drive.google.com/file/d/1Fi9cjMXSLCFeSHLLYZ58iAFsQcypE917/view?usp=sharing)
 3 | Datatypes and Operators  | [Lecture Slides](https://docs.google.com/presentation/d/1fob7spDAPqYFZx2FIIcfWsbUGjSfVPcHUUwB3yUKVps/edit?usp=sharing) | Schaum's outline, Chapter # 2
 4 | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
-5 | Functions | [Lecture Slides](https://docs.google.com/presentation/d/1kkkTd3fs6L6gm53pl58CysR50SL0D7-IhUs2w4WLYaY/edit?usp=sharing) | Upcoming  
+5 | Functions | [Lecture Slides](https://docs.google.com/presentation/d/1kkkTd3fs6L6gm53pl58CysR50SL0D7-IhUs2w4WLYaY/edit?usp=sharing) | [Functions](https://drive.google.com/file/d/1Sb83AJUUp0NIUyJBeL7oblkp1ReIWeNj/view?usp=sharing)  
 6 | Iterative Statements | [Lecture Slides]()
 
 
