@@ -63,4 +63,3 @@ Lecture  | Topic | Contents  | Further Reading
 ## Practice Problems
 1. [Practice Set for Simple Airthmetic](https://docs.google.com/document/d/1uZrc1sv3mHkYIXJMd8HTOQdXakFdiLhvrYthV3krSfc/edit?usp=sharing)
 2. [Practice set for If-else and switch-case](https://docs.google.com/document/d/1M0qt1GzSlCLe2OVImeRUehOij-YRc-36Y_3jyUIPEUQ/edit?usp=sharing)
-3. [Practice set for Functions] ()
