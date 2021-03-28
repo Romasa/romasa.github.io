@@ -38,6 +38,7 @@ Examples of the code [available here](https://github.com/Romasa/Introductory-Pro
 Name | Due Date 
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 13th March 2021 23:59:59
+**[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868)** | **5th April 2021 23:59:59**
 
 * * *
 
@@ -52,7 +53,7 @@ Lecture  | Topic | Contents  | Further Reading
 4 | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
 5 | Functions | [Lecture Slides](https://docs.google.com/presentation/d/1kkkTd3fs6L6gm53pl58CysR50SL0D7-IhUs2w4WLYaY/edit?usp=sharing) | [Functions](https://drive.google.com/file/d/1Sb83AJUUp0NIUyJBeL7oblkp1ReIWeNj/view?usp=sharing)  
 6 | Iterative Statements | [Lecture Slides](https://docs.google.com/presentation/d/1Kx2pTD-cy2EsRJvlUy23TBaX9OmNqAduMxVsH1NZCRI/edit?usp=sharing) | Schaum's outline, Chapter # 4  
-7 | Arrays | [Lecture Slides]() | Upcoming  
+7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Upcoming  
 
 
 
