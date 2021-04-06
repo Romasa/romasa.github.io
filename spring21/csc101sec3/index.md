@@ -10,17 +10,7 @@
 
 ### [MD Abu sauri sufian](mailto:1930839@iub.edu.bd) 
 
-Office hour: [Google Meet]()
-
-Time:
-
-
 ### [Ishtiaq Hossen](mailto:1921532@iub.edu.bd)
-
-Office hour: [Google Meet]()
-
-Time:
-
 
 ### [Tahmid Hossain](mailto:1820228@iub.edu.bd)
 
@@ -40,7 +30,9 @@ Examples of the code [available here](https://github.com/Romasa/Introductory-Pro
 Name | Due Date 
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 11th March 2021 23:59:59
-**[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2867)** | **5th April 2021 23:59:59**
+[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2867) | 5th April 2021 23:59:59
+
+
 
 * * *
 
@@ -55,7 +47,9 @@ Lecture  | Topic | Contents  | Further Reading
 4 | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
 5 | Functions | [Lecture Slides](https://docs.google.com/presentation/d/1kkkTd3fs6L6gm53pl58CysR50SL0D7-IhUs2w4WLYaY/edit?usp=sharing) | [Functions](https://drive.google.com/file/d/1Sb83AJUUp0NIUyJBeL7oblkp1ReIWeNj/view?usp=sharing)   
 6 | Iterative Statements | [Lecture Slides](https://docs.google.com/presentation/d/1Kx2pTD-cy2EsRJvlUy23TBaX9OmNqAduMxVsH1NZCRI/edit?usp=sharing) | Schaum's outline, Chapter # 4  
-7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Upcoming  
+7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Schaum's Outline, Chapter # 6  
+8 | Strings | [Lecture Slides](https://docs.google.com/presentation/d/1hHlcQMd56ndFcudNi7UJJ4BJGohl2kI4gK29BelMLUU/edit?usp=sharing) | Schaum's Outline, Chapter # 8  
+
 
 
 
