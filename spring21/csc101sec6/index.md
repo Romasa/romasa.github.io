@@ -53,7 +53,8 @@ Lecture  | Topic | Contents  | Further Reading
 4 | Decision Making  | [Lecture Slides](https://docs.google.com/presentation/d/1DUohKCdo57a2rM6TTlB5C7hO2npF2VKNjaFmkIzoyGE/edit?usp=sharing) | Schaum's outline, Chapter # 3
 5 | Functions | [Lecture Slides](https://docs.google.com/presentation/d/1kkkTd3fs6L6gm53pl58CysR50SL0D7-IhUs2w4WLYaY/edit?usp=sharing) | [Functions](https://drive.google.com/file/d/1Sb83AJUUp0NIUyJBeL7oblkp1ReIWeNj/view?usp=sharing)  
 6 | Iterative Statements | [Lecture Slides](https://docs.google.com/presentation/d/1Kx2pTD-cy2EsRJvlUy23TBaX9OmNqAduMxVsH1NZCRI/edit?usp=sharing) | Schaum's outline, Chapter # 4  
-7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Upcoming  
+7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Schaum's Outline, Chapter # 6  
+8 | Strings | [Lecture Slides](https://docs.google.com/presentation/d/1hHlcQMd56ndFcudNi7UJJ4BJGohl2kI4gK29BelMLUU/edit?usp=sharing) | Schaum's Outline, Chapter # 8  
 
 
 
@@ -63,3 +64,4 @@ Lecture  | Topic | Contents  | Further Reading
 1. [Practice Set for Simple Airthmetic](https://docs.google.com/document/d/1uZrc1sv3mHkYIXJMd8HTOQdXakFdiLhvrYthV3krSfc/edit?usp=sharing)
 2. [Practice set for If-else and switch-case](https://docs.google.com/document/d/1M0qt1GzSlCLe2OVImeRUehOij-YRc-36Y_3jyUIPEUQ/edit?usp=sharing)
 3. [Practice set for Loops](https://docs.google.com/document/d/1d3h9piwUDnlM6DUzj--yvHotIfZsAUQeT0f4SHqpnVQ/edit?usp=sharing)  
+
