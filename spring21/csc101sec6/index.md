@@ -30,7 +30,9 @@ Examples of the code [available here](https://github.com/Romasa/Introductory-Pro
 Name | Due Date 
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 13th March 2021 23:59:59
-**[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868)** | **5th April 2021 23:59:59**
+[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868) | 5th April 2021 23:59:59
+**[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2896)** | **17th April 2021 23:59:59**  
+
 
 * * *
 
