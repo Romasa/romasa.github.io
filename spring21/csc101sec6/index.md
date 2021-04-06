@@ -10,20 +10,12 @@
 
 ### [MD RUBAUT RESHED CHOWDHURY](mailto:1721088@iub.edu.bd)
 
-Office hour: [Google Meet]()
-
-Time:
-
-
 ### [Shoban Bhowmik](mailto:1930533@iub.edu.bd)
-Office hour: [Google Meet]()
-
-Time:
-
 
 ### [Tahmid Hossain](mailto:1820228@iub.edu.bd)
 
 * * * 
+
 ## Class Materials
 
 Recordings of the sessions [available here](https://drive.google.com/drive/folders/1OOFmh1qo-jeF9EI5PlL2oX_Ft6Oyf62g?usp=sharing)
