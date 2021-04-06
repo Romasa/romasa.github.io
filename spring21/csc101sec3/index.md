@@ -58,3 +58,5 @@ Lecture  | Topic | Contents  | Further Reading
 1. [Practice Set for Simple Airthmetic](https://docs.google.com/document/d/1uZrc1sv3mHkYIXJMd8HTOQdXakFdiLhvrYthV3krSfc/edit?usp=sharing)
 2. [Practice set for If-else and switch-case](https://docs.google.com/document/d/1M0qt1GzSlCLe2OVImeRUehOij-YRc-36Y_3jyUIPEUQ/edit?usp=sharing)
 3. [Practice set for Loops](https://docs.google.com/document/d/1d3h9piwUDnlM6DUzj--yvHotIfZsAUQeT0f4SHqpnVQ/edit?usp=sharing)  
+4. [Practice set for functions](https://docs.google.com/document/d/18fuIQ9XQy5V8-n_-SsfymcgU3CXHmT6ORqSDyZVw_DE/edit?usp=sharing)
+5. [Practice set for 1D Array and C-Strings](https://docs.google.com/document/d/12E_vDtavy2Y6nKfAcqZyS8sEWELKC17XOE3CRtxl7Jw/edit?usp=sharing)  
