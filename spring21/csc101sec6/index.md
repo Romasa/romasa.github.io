@@ -30,7 +30,7 @@ Examples of the code [available here](https://github.com/Romasa/Introductory-Pro
 Name | Due Date 
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 13th March 2021 23:59:59
-[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868) | 5th April 2021 23:59:59
+[Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868) | 5th April 2021 23:59:59 (Extended till 7th April)
 **[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2896)** | **17th April 2021 23:59:59**  
 
 
@@ -49,6 +49,7 @@ Lecture  | Topic | Contents  | Further Reading
 6 | Iterative Statements | [Lecture Slides](https://docs.google.com/presentation/d/1Kx2pTD-cy2EsRJvlUy23TBaX9OmNqAduMxVsH1NZCRI/edit?usp=sharing) | Schaum's outline, Chapter # 4  
 7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Schaum's Outline, Chapter # 6  
 8 | Strings | [Lecture Slides](https://docs.google.com/presentation/d/1hHlcQMd56ndFcudNi7UJJ4BJGohl2kI4gK29BelMLUU/edit?usp=sharing) | Schaum's Outline, Chapter # 8  
+9 | Algorithms on Array | [Lecture Slides](https://docs.google.com/presentation/d/1ZWqmDtOqIC58G7TTD04OPSxAVtcxTLIumdEAfK0V6LU/edit?usp=sharing) | Coming Up  
 
 
 
