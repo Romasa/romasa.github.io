@@ -50,7 +50,7 @@ Lecture  | Topic | Contents  | Further Reading
 7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Schaum's Outline, Chapter # 6  
 8 | Strings | [Lecture Slides](https://docs.google.com/presentation/d/1hHlcQMd56ndFcudNi7UJJ4BJGohl2kI4gK29BelMLUU/edit?usp=sharing) | Schaum's Outline, Chapter # 8  
 9 | Algorithms on Array | [Lecture Slides](https://docs.google.com/presentation/d/1ZWqmDtOqIC58G7TTD04OPSxAVtcxTLIumdEAfK0V6LU/edit?usp=sharing) | Coming Up  
-10 | Pointers | [Lecture Slides](https://docs.google.com/presentation/d/1CxeAjmJTA0-EtET86gVlWCepBsq5qagWE-r_1wsRRbM/edit?usp=sharing) | Coming Up  
+10 | Pointers | [Lecture Slides](https://docs.google.com/presentation/d/1CxeAjmJTA0-EtET86gVlWCepBsq5qagWE-r_1wsRRbM/edit?usp=sharing) | Coming soon
 
 
 
