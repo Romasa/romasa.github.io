@@ -31,7 +31,7 @@ Name | Due Date
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 13th March 2021 23:59:59
 [Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2868) | 5th April 2021 23:59:59 (Extended till 7th April)
-**[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2896)** | **17th April 2021 23:59:59**  
+**[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2896)** | **17th April 2021 23:59:59 (Extended till 20th April)**  
 
 
 * * *
@@ -50,6 +50,7 @@ Lecture  | Topic | Contents  | Further Reading
 7 | Arrays | [Lecture Slides](https://docs.google.com/presentation/d/1oRhcSBMaNEIMj2e5HyaaXCW8_MthGPp-NaEyyj1aoTI/edit?usp=sharing) | Schaum's Outline, Chapter # 6  
 8 | Strings | [Lecture Slides](https://docs.google.com/presentation/d/1hHlcQMd56ndFcudNi7UJJ4BJGohl2kI4gK29BelMLUU/edit?usp=sharing) | Schaum's Outline, Chapter # 8  
 9 | Algorithms on Array | [Lecture Slides](https://docs.google.com/presentation/d/1ZWqmDtOqIC58G7TTD04OPSxAVtcxTLIumdEAfK0V6LU/edit?usp=sharing) | Coming Up  
+10 | Pointers | [Lecture Slides](https://docs.google.com/presentation/d/1CxeAjmJTA0-EtET86gVlWCepBsq5qagWE-r_1wsRRbM/edit?usp=sharing) | Coming Up  
 
 
 
@@ -61,3 +62,4 @@ Lecture  | Topic | Contents  | Further Reading
 3. [Practice set for Loops](https://docs.google.com/document/d/1d3h9piwUDnlM6DUzj--yvHotIfZsAUQeT0f4SHqpnVQ/edit?usp=sharing)  
 4. [Practice set for functions](https://docs.google.com/document/d/18fuIQ9XQy5V8-n_-SsfymcgU3CXHmT6ORqSDyZVw_DE/edit?usp=sharing)
 5. [Practice set for 1D Array and C-Strings](https://docs.google.com/document/d/12E_vDtavy2Y6nKfAcqZyS8sEWELKC17XOE3CRtxl7Jw/edit?usp=sharing)  
+6. [Practice set for Pointers](https://docs.google.com/document/d/1DlNUMKYmFSEsHYwgdToYWvDGJYEAoRUjZrllB6sRAjA/edit?usp=sharing)
