@@ -31,8 +31,13 @@ Name | Due Date
 -----| ----------------
 [Assignment # 1](https://docs.google.com/document/d/1VfYTZk0BiYO6BzGLe5W3oss_bgDzCk0CzP1vwFXS6VE/edit?usp=sharing) | 11th March 2021 23:59:59
 [Assignment # 2](https://www.codestepbystep.com/problemset/view?id=2867) | 5th April 2021 23:59:59 (Extended till 7th April)
-**[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2897)** | **17th April 2021 23:59:59 (Extended till 20th April)**
+[Assignment # 3](https://www.codestepbystep.com/problemset/view?id=2897) | 17th April 2021 23:59:59 (Extended till 20th April)
 
+* * *
+
+## Project
+
+Project link: https://docs.google.com/document/d/1G7F1Rk3d50faRJJkvAXUlHez5IMqEHW-gdfMPUggBpM/edit?usp=sharing
 
 * * *
 
