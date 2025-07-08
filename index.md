@@ -11,7 +11,7 @@ I am currently working as a Research Associate in Bouchnita lab at University of
 Before joining UTEP, I was a lecturer in the Computer Science and Engineering department of Independent University, Bangladesh (IUB). During my tenure as a lecturer, I taught courses like [C++](https://github.com/Romasa/Introductory-Programming-with-C-Plus-Plus) and [Python](https://github.com/Romasa/Introduction-to-python)
 
 
-Links to some of the previous courses that I have taught @ IUB:
+Links to some of the previous courses that I have taught @ IUB:\
 [CSC101 Section 3:](spring21/csc101sec3/)
 
 [CSC101 Section 6:](spring21/csc101sec6/)
