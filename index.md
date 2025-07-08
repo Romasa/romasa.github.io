@@ -2,28 +2,28 @@
 
 ![coffee](/coffee.jpg)
 
-I am Romasa Qasim, currently working as a lecturer in Independent University, Bangladesh (IUB). 
+I am Romasa Qasim, I am a student, a teacher, a researcher, a mother, a patriot citizen, an overthinker, a day-dreamer, a cook, and an introvert under the cloak of an extrovert. I love to travel and read book.
 
-In Spring 2021, I am teaching CSC101 section 3 & 6. 
-* * * 
+* * *
+**By Profession:**
+I am currently working as a Research Associate in Bouchnita lab at University of Texas at El Paso (UTEP). 
+
+Before joining UTEP, I was a lecturer in the Computer Science and Engineering department of Independent University, Bangladesh (IUB). During my tenure as a lecturer, I taught courses like [C++](https://github.com/Romasa/Introductory-Programming-with-C-Plus-Plus) and [Python](https://github.com/Romasa/Introduction-to-python)
+
+
+Links to some of the previous courses that I have taught @ IUB:
 [CSC101 Section 3:](spring21/csc101sec3/)
-```markdown
-- [x] Timing: (Theory) ST 12:30 - 14:00, (Lab) S 14:00 - 15:30
-```
-* * * 
 
 [CSC101 Section 6:](spring21/csc101sec6/)
-```markdown
-- [x] Timing: (Theory) MW 11:00 - 12:30, (Lab) W 09:30 - 11:00
-```
+
 * * * 
-## Recommended Books to learn Programming with C++:
 
-- [C++ Complete Reference 3rd Edition](https://drive.google.com/file/d/1CgzsMnSvpTh3tLPWOmpYu3-ZrXwi75gZ/view?usp=sharing)
+**By Education:**
+I have started my dream PhD journey in Computational Science at [University of Texas at El Paso](https://www.utep.edu/science) in Fall 2022. I have completed Ms in [Computational Sceince](https://www.utep.edu/science/computational-science/) from [University of Texas at El Paso, Texas, USA](https://www.utep.edu/). Before that I have earned [MS in Computer Science](https://www.northsouth.edu/academic/programs-18022021/master/ms-cse.html) and Engineering with distinction from [North South University](https://www.northsouth.edu/), Bangladesh. My undergraduate was in [Computer Science](https://uok.edu.pk/faculties/computerscience/bs.php) from [University of Karachi](https://uok.edu.pk/), Pakistan. 
 
-- [A Computer Science Tapestry, 2nd Edition](https://www2.cs.duke.edu/csed/tapestry/)
+* * *
 
-- [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf) 
+**By Philosophy:**
+I am a citizen of a dream land where law and justice are above everything, where nobody is dying of hunger, where the best medication and treatment is provided to everyone free of cost. 
 
-- [Programming with C++, Schaum's Outline](https://drive.google.com/file/d/1rlXCW2R7fRPw7pLg8EXVlspk5Lzy4aZ3/view?usp=sharing)
-
+I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it here, so hang on. Other philosophical ideas will come along right here too. 
