@@ -1,6 +1,6 @@
-# Welcome to my Page 
+# Good day!
 
-<img src="coffee.jpg" width="600" height="400">
+<img src="coffee.jpg" width="1000" height="500">
 
 I am Romasa Qasim, I am a student, a teacher, a researcher, a mother, an overthinker, a day-dreamer, a cook, and an introvert under the cloak of an extrovert. I love to travel and read book.
 

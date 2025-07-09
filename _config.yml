@@ -1,5 +1,4 @@
-emote_theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-remote-theme 
-is_project_page: false
-title: Peronal Page of Romasa Qasim
+title: Romasa's Personal Webpage
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
