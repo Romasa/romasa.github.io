@@ -25,4 +25,4 @@ I have started my dream PhD journey in Computational Science at [University of T
 **By Philosophy:**\
 I am a citizen of a dream land where law and justice are above everything, where nobody is dying of hunger, where the best medication and treatment is provided to everyone free of cost. 
 
-I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it here, so hang on. Other philosophical ideas will come along right here too. 
+I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it here, so hang on. Other philosophical ideas will come along in my [philosophical diary](looks_strange.md) too. 
