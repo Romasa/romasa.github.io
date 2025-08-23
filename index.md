@@ -2,7 +2,7 @@
 
 <img src="coffee.jpg" width="1000" height="500">
 
-I am Romasa Qasim, I am a student, a teacher, a researcher, a mother, an overthinker, a day-dreamer, a cook, and an introvert under the cloak of an extrovert. I love to travel and read book.
+I am Romasa Qasim, I am a student, a teacher, a researcher, a mother, an overthinker, a day-dreamer, a cook, and an introvert under the cloak of an extrovert. I love to travel and read books.
 
 * * *
 **By Profession:**\
@@ -25,4 +25,4 @@ I have started my dream PhD journey in Computational Science at [University of T
 **By Philosophy:**\
 I am a citizen of a dream land where law and justice are above everything, where nobody is dying of hunger, where the best medication and treatment is provided to everyone free of cost. 
 
-I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it here, so hang on. Other philosophical ideas will come along in my [philosophical diary](looks_strange.md) too. 
+I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it in my PhD diay, so hang on. Other philosophical ideas will come along in my [philosophical diary](looks_strange.md) too. 
