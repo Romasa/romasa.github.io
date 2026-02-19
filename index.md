@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <div class="profile-container">
   <div class="profile-inner">
 
