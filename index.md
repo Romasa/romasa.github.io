@@ -10,7 +10,6 @@
     <p style="margin:8px 0">
       <a href="/cv" style="margin-right:10px">View CV</a>
       • <a href="/assets/CV.pdf" style="margin-right:10px">Download CV (PDF)</a>
-      • <a href="mailto:your.email@domain">your.email@domain</a>
     </p>
   </div>
 </div>
@@ -61,7 +60,7 @@ Biological Engineering Annual Conference 2025, Salt Lake City, Utah, September 2
 
 ## Contact
 
-- Email: `rqasim@miners.utep.edu` — replace with your preferred address
+- Email: `rqasim[at]miners[dot]utep[dot]edu` 
 - GitHub: [github.com/Romasa](https://github.com/Romasa)
 - LinkedIn: [LinkedIn/Romasa](https://www.linkedin.com/in/romasa-qasim-a5916a1a/)
 
