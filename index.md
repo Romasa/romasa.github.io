@@ -1,28 +1,62 @@
-# Good day!
+<div style="display:flex;gap:22px;align-items:center;flex-wrap:wrap">
+  <div style="flex:0 0 160px;">
+    <img src="/assets/images/profile.svg" alt="Profile photo" style="width:160px;height:160px;object-fit:cover;border-radius:8px;border:1px solid #ddd">
+  </div>
 
-<img src="coffee.jpg" width="1000" height="500">
+  <div style="flex:1;min-width:240px">
+    <h1 style="margin:0">Romasa Qasim</h1>
+    <p style="margin:6px 0"><strong>Research Associate — Bouchnita Lab, University of Texas at El Paso (UTEP)</strong></p>
+    <p style="margin:6px 0;color:#444">Computational Science • Data-driven modelling • Scientific computing</p>
+    <p style="margin:8px 0">
+      <a href="/cv" style="margin-right:10px">View CV</a>
+      • <a href="/assets/CV.pdf" style="margin-right:10px">Download CV (PDF)</a>
+      • <a href="mailto:your.email@domain">your.email@domain</a>
+    </p>
+  </div>
+</div>
 
-I am Romasa Qasim, I am a student, a teacher, a researcher, a mother, an overthinker, a day-dreamer, a cook, and an introvert under the cloak of an extrovert. I love to travel and read books.
+---
 
-* * *
-**By Profession:**\
-I am currently working as a Research Associate in Bouchnita lab at University of Texas at El Paso (UTEP). 
+## About my research
 
-Before joining UTEP, I was a lecturer in the Computer Science and Engineering department of Independent University, Bangladesh (IUB). During my tenure as a lecturer, I taught courses like [C++](https://github.com/Romasa/Introductory-Programming-with-C-Plus-Plus) and [Python](https://github.com/Romasa/Introduction-to-python).
+I am a PhD student / Research Associate working in computational science with a focus on data-driven modelling and scientific software. My work combines numerical methods, machine learning, and domain knowledge to solve real-world problems.
 
+**Current interests:**
 
-Links to some of the previous courses that I have taught @ IUB:\
-[CSC101 Section 3](spring21/csc101sec3/)\
-[CSC101 Section 6](spring21/csc101sec6/)
+- Scientific machine learning and surrogate modelling
+- Numerical methods for partial differential equations
+- Reproducible scientific software and workflows
 
-* * * 
+---
 
-**By Education:**\
-I have started my dream PhD journey in Computational Science at [University of Texas at El Paso](https://www.utep.edu/science) in Fall 2022. I have completed Ms in [Computational Sceince](https://www.utep.edu/science/computational-science/) from [University of Texas at El Paso, Texas, USA](https://www.utep.edu/). Before that I have earned [MS in Computer Science](https://www.northsouth.edu/academic/programs-18022021/master/ms-cse.html) and Engineering with distinction from [North South University](https://www.northsouth.edu/), Bangladesh. My undergraduate was in [Computer Science](https://uok.edu.pk/faculties/computerscience/bs.php) from [University of Karachi](https://uok.edu.pk/), Pakistan. 
+## Selected activities
 
-* * *
+### Selected publications
+- (Add your publications here — replace these placeholders.)
+- [Paper title — Journal/Conference, Year](#)
+- [Paper title — Journal/Conference, Year](#)
 
-**By Philosophy:**\
-I am a citizen of a dream land where law and justice are above everything, where nobody is dying of hunger, where the best medication and treatment is provided to everyone free of cost. 
+### Teaching & mentoring
+- Lecturer — Introductory Programming (C++, Python)
+- Teaching assistant and guest lectures in computational science courses
 
-I will write my daily life experiences while pursuing my dream journey to PhD with two loving kids and will post it in my PhD diay, so hang on. Other philosophical ideas will come along in my [philosophical diary](looks_strange.md) too. 
+### Recent updates
+- Started PhD / Research Associate role at UTEP — Fall 2022
+- Blog: [PhD diary](/phd_diary.md) — short progress notes and reflections
+
+---
+
+## Download my CV
+
+- Full CV (web): [View CV](/cv)
+- PDF: [Download CV (PDF)](/assets/CV.pdf) — upload your PDF to `/assets/CV.pdf` to enable this link.
+
+---
+
+## Contact
+
+- Email: `your.email@domain` — replace with your preferred address
+- GitHub: [github.com/Romasa](https://github.com/Romasa)
+- Add Google Scholar / ORCID / LinkedIn links in this section as needed.
+
+> Note: To add your photo, replace `/assets/images/my pic.jpg` with your image (keep the same filename) or update the `img` path above. To attach a PDF CV upload it to `/assets/CV.pdf`.
