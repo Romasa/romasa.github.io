@@ -19,12 +19,12 @@
 
 ## About my research
 
-I am a PhD student / Research Associate working in computational science with a focus on data-driven modelling and scientific software. My work combines numerical methods, machine learning, and domain knowledge to solve real-world problems.
+I am a PhD student / Research Associate working in computational science with a focus on data-driven modelling and scientific software for cancer. My work combines numerical methods, machine learning, and domain knowledge to solve real-world problems.
 
 **Current interests:**
 
 - Scientific machine learning and surrogate modelling
-- Numerical methods for partial differential equations
+- Numerical methods for ordinary, partial differential equations
 - Reproducible scientific software and workflows
 
 ---
@@ -32,18 +32,24 @@ I am a PhD student / Research Associate working in computational science with a 
 ## Selected activities
 
 ### Selected publications
-- (Add your publications here — replace these placeholders.)
-- [Paper title — Journal/Conference, Year](#)
-- [Paper title — Journal/Conference, Year](#)
+- "From 3D stochastic multiscale simulations to population dynamics models: the role of receptor-ligand interactions in tumor initiation", [Manuscript ready for submission]
+- "Multiscale models of tumor growth with explicit
+receptor-ligand dynamics to quantify tumorigenesis conditions”, 32th Joint UTEP/NMSU workshop on Mathematics, Computer Science, & Computational Sciences, El Paso, Texas, November 2025
+- "Multiscale, continuous and data-driven surrogate models to
+analyze the conditions influencing tumor growth during EGFR overexpression", Institute of
+Biological Engineering Annual Conference 2025, Salt Lake City, Utah, September 2025.
 
-### Teaching & mentoring
-- Lecturer — Introductory Programming (C++, Python)
-- Teaching assistant and guest lectures in computational science courses
 
+--- 
 ### Recent updates
-- Started PhD / Research Associate role at UTEP — Fall 2022
+- Started PhD / Research Assistant role at UTEP — Fall 2022
 - Blog: [PhD diary](/phd_diary.md) — short progress notes and reflections
 
+---
+
+### Teaching & mentoring
+- Lecturer — Introductory Programming (C++, Python), Data structures
+- Teaching assistant and guest lectures in computational science courses
 ---
 
 ## Download my CV
@@ -55,8 +61,7 @@ I am a PhD student / Research Associate working in computational science with a 
 
 ## Contact
 
-- Email: `your.email@domain` — replace with your preferred address
+- Email: `rqasim@miners.utep.edu` — replace with your preferred address
 - GitHub: [github.com/Romasa](https://github.com/Romasa)
-- Add Google Scholar / ORCID / LinkedIn links in this section as needed.
+- LinkedIn: [LinkedIn/Romasa](https://www.linkedin.com/in/romasa-qasim-a5916a1a/)
 
-> Note: To add your photo, replace `/assets/images/my pic.jpg` with your image (keep the same filename) or update the `img` path above. To attach a PDF CV upload it to `/assets/CV.pdf`.
