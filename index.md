@@ -12,11 +12,9 @@ title: Home
 
       <div class="profile-contact">
         <p class="lead">Romasa Qasim</p>
-        <p class="role">Research Associate — Bouchnita Lab, UTEP</p>
+        <p class="role">Research Assistant — Bouchnita Lab, UTEP</p>
 
-        <p><a class="icon-link" href="mailto:rqasim@miners.utep.edu">
-          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 7.5L12 13l9-5.5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          rqasim[at]miners[dot]utep[dot]edu
+        <p><a> rqasim [at] miners [dot] utep [dot] edu">
         </a></p>
 
         <p>
@@ -57,23 +55,23 @@ title: Home
 
       <h2>Selected activities</h2>
       <div class="profile-grid">
-        <div>
+        
           <h3>Publications</h3>
           <ul>
             <li>From 3D stochastic multiscale simulations — manuscript</li>
             <li>Multiscale models of tumor growth (workshop, 2025)</li>
             <li>Data-driven surrogate models for tumor growth (IBE, 2025)</li>
           </ul>
-        </div>
+        
 
-        <div>
+        
           <h3>Teaching & updates</h3>
           <ul>
             <li>Lecturer — Introductory Programming (C++, Python)</li>
             <li>TA & guest lectures — computational science</li>
             <li>PhD diary: <a href="/phd_diary.md">progress notes</a></li>
           </ul>
-        </div>
+        <
       </div>
 
       <p style="margin-top:14px;font-size:0.95rem;color:#333"><a href="/cv">Full CV (web)</a> • <a href="/assets/CV.pdf">Download CV (PDF)</a></p>
