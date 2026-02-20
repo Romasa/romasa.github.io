@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "jekyll-theme-slate"
+gem "minima", "~> 2.5"  # use minima theme

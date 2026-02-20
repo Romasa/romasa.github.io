@@ -1,9 +1,14 @@
 ---
 ---
 
-@import 'jekyll-theme-slate';
+@import 'minima';
 
 /* --- custom profile layout --- */
+
+/* make all containers full-width */
+.container, .wrapper { max-width: none !important; width: auto !important; }
+body { margin:0;padding:0; }
+
 .profile-container {
   background: #f6f7f8;
   padding: 20px 36px;
