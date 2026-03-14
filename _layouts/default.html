@@ -11,28 +11,91 @@
   </head>
 
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
 
-    <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="branding">
+          <a class="site-title" href="{{ '/' | relative_url }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <p class="site-tagline">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/blog' | relative_url }}">Blog</a>
+          <a href="{{ '/cv' | relative_url }}">CV</a>
+          <a href="{{ '/phd_diary' | relative_url }}">PhD diary</a>
+          <a href="{{ '/the_books_I_read' | relative_url }}">Books</a>
+          <a href="{{ '/the_quran' | relative_url }}">Quran</a>
+        </nav>
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div>
+    <main id="main-content" class="site-main container">
+      {% if page.url == "/" %}
+        <section class="hero">
+          <div class="hero-content">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p class="hero-subtitle">{{ site.description | default: site.github.project_tagline }}</p>
+            <p class="hero-cta">
+              <a class="btn" href="{{ '/cv' | relative_url }}">View my CV</a>
+              <a class="btn btn-secondary" href="{{ '/blog' | relative_url }}">Read the blog</a>
+            </p>
+          </div>
+        </section>
+
+        <section class="home-cards" aria-label="Quick links">
+          <article class="card">
+            <h2>About</h2>
+            <p>Get to know my research focus, recent projects, and what I’m working on right now.</p>
+            <a class="card-link" href="{{ '/' | relative_url }}">Learn more</a>
+          </article>
+          <article class="card">
+            <h2>Recent posts</h2>
+            <p>See the latest updates, notes, and ideas from the lab.</p>
+            <a class="card-link" href="{{ '/blog' | relative_url }}">Read the blog</a>
+          </article>
+          <article class="card">
+            <h2>Resources</h2>
+            <p>Browse publications, datasets, and tools related to my research interests.</p>
+            <a class="card-link" href="{{ '/cv' | relative_url }}">View CV & publications</a>
+          </article>
+        </section>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.url == "/" and site.posts != empty %}
+        <section class="recent-posts" aria-label="Recent posts">
+          <div class="recent-posts-header">
+            <h2>Recent posts</h2>
+            <a class="recent-posts-all" href="{{ '/blog' | relative_url }}">See all</a>
+          </div>
+          <ul class="recent-posts-list">
+            {% for post in site.posts limit:4 %}
+              <li>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+              </li>
+            {% endfor %}
+          </ul>
+        </section>
+      {% endif %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-main">
+          <p class="footer-copyright">Copyright &copy; {{ site.time | date: "%Y" }} {{ site.title | default: site.github.repository_name }}.</p>
+          <nav class="footer-social" aria-label="Social links">
+            <a href="https://github.com/Romasa" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://www.linkedin.com/in/romasa-qasim-a5916a1a/" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="mailto:rqasim@miners.utep.edu">Email</a>
+          </nav>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
