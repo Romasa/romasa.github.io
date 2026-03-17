@@ -5,23 +5,17 @@ title: Home
 ![Profile photo](/assets/images/profile.jpg){: alt="Profile photo" }
 
 **Romasa Qasim**  
-Research Assistant — Bouchnita Lab, UTEP
+Research Assistant — Bouchnita Lab, University of Texas at El Paso (UTEP)
 
+I am a PhD candidate and a Research Associate working on numerical methods, scientific machine learning, and reproducible scientific software for multiscale biological systems.
+
+I develop numerical and data-driven models for multiscale biological systems, with emphasis on reproducible scientific software and interpretable surrogate models.
 Email: rqasim [at] miners [dot] utep [dot] edu
+
+**Research interests:** scientific machine learning • numerical PDEs • reproducible workflows
 
 [Web CV](/cv) • [PDF CV](/assets/CV.pdf) • [GitHub](https://github.com/Romasa) • [LinkedIn](https://www.linkedin.com/in/romasa-qasim-a5916a1a/)
 
-# Romasa Qasim
-
-**Research Associate** — Bouchnita Lab, University of Texas at El Paso (UTEP)
-
-PhD candidate / Research Associate working on numerical methods, scientific machine learning, and reproducible scientific software for multiscale biological systems.
-
-## About my research
-
-I develop numerical and data-driven models for multiscale biological systems, with emphasis on reproducible scientific software and interpretable surrogate models.
-
-**Current interests:** scientific machine learning • numerical PDEs • reproducible workflows
 
 ## Selected activities
 
