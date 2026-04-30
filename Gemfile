@@ -1,7 +1,4 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-
-gemspec
-
-gem "minima", "~> 2.5"  # use minima theme
+gem 'jekyll(~>4.0)'
+gem 'jekyll-remote-theme'

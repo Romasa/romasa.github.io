@@ -2,4 +2,5 @@ title: Romasa's Personal Webpage
 description: A personal webpage for Romasa, showcasing projects, blog posts, contact information. and some of mt hobbies
 show_downloads: false
 google_analytics:
-theme: hacker
+theme: jekyll-remote-theme
+remote_theme: daviddarnes/alembic@main
