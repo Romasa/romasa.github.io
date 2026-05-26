@@ -33,4 +33,24 @@ Broader applications of mathematical modeling to biological phenomena including 
 | **DevOps** | Docker, Linux |
 | **General** | Scientific computing, Data visualization |
 
-## 📂 Structure
+## 🔬 Research Highlights
+
+- **Cancer3D**: A coupled continuous–discrete framework for simulating solid tumor dynamics.
+  - *Tech*: C++, Python, Agent-based modelling, PDEs.
+  - [View Validation Repo](https://github.com/Romasa/Cancer3D_validation)
+
+- **ML for Tumor Growth**: Supervised learning models combining regression and deep learning.
+  - *Tech*: Python, PyTorch, Scikit-learn.
+
+- **Computational Biology**: Multi-scale modelling of population dynamics and signalling networks.
+  - *Tech*: R, Python, Systems biology.
+
+
+
+## 📬 Contact
+
+I am currently open to discussions about **postdoctoral opportunities** in computational biology, mathematical oncology, or related fields.
+
+- **Email**: [rqasim@miners.utep.edu](mailto:rqasim@miners.utep.edu)
+- **GitHub**: [github.com/Romasa](https://github.com/Romasa)
+- **LinkedIn**: [linkedin.com/in/romasa-qasim-a5916a1a](https://linkedin.com/in/romasa-qasim-a5916a1a)
